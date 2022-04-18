@@ -1,0 +1,3 @@
+Matriks adalah struktur data dengan memori internal.Struktur ini praktis untuk di pakai memakan memory ! (Matriks integer 100 x 100 memakan 10000 x tempat penyimpanan integer)
+array dan matrix saling berhubungan dalam dimensi dari 2 dimensi atau pun 3 dimensi
+dan juga matriks sebagai objek array
